@@ -5,56 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="193ce094-66fa-4d84-a228-609a48322787" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/dao/CinemaHallDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/dao/MovieDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/dao/MovieSessionDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/dao/OrderDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/dao/ShoppingCartDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/dao/TicketDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/dao/impl/CinemaHallDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/dao/impl/MovieDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/dao/impl/MovieSessionDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/dao/impl/OrderDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/dao/impl/ShoppingCartDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/dao/impl/TicketDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/exception/AuthenticationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/exception/DataProcessingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/exception/RegistrationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/lib/Dao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/lib/Inject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/lib/Injector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/lib/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/model/CinemaHall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/model/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/model/MovieSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/model/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/model/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/model/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/security/AuthenticationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/security/AuthenticationServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/service/CinemaHallService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/service/MovieService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/service/MovieSessionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/service/ShoppingCartService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/service/impl/CinemaHallServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/service/impl/MovieServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/service/impl/MovieSessionServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/service/impl/ShoppingCartServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/util/HashUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/util/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cinema/shop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cinema/shop/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659263382768</updated>
-      <workItem from="1659263385081" duration="1566000" />
+      <workItem from="1659263385081" duration="3151000" />
     </task>
     <servers />
   </component>
